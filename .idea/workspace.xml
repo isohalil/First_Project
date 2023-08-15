@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c30bb336-d918-4313-8b44-19f84e89fe10" name="Changes" comment="" />
+    <list default="true" id="c30bb336-d918-4313-8b44-19f84e89fe10" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day07stringmanipulations/StringManipulation01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day07stringmanipulations/StringManipulation01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day07stringmanipulations/StringManipulation04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day07stringmanipulations/StringManipulation04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day07stringmanipulations/StringManipulations02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day07stringmanipulations/StringManipulations02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day07stringmanipulations/StringManipulations03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day07stringmanipulations/StringManipulations03.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +27,17 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="aab9f03e-d1de-4555-96fe-8439aaf595d1" />
+        <option name="url" value="https://github.com/isohalil/First_Project.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/day07stringmanipulations/StringManipulations03.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -28,6 +45,7 @@
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
@@ -39,7 +57,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.General",
+    "settings.editor.selected.configurable": "editor.preferences.tabs",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -130,12 +148,27 @@
       <workItem from="1691404527373" duration="762000" />
       <workItem from="1691482288478" duration="28632000" />
       <workItem from="1691775438134" duration="36838000" />
-      <workItem from="1691964884777" duration="22504000" />
+      <workItem from="1691964884777" duration="23191000" />
+      <workItem from="1692119786632" duration="1076000" />
+      <workItem from="1692120990332" duration="9651000" />
+      <workItem from="1692132652426" duration="628000" />
+      <workItem from="1692137613437" duration="980000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
