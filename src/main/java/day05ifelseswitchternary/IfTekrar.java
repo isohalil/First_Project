@@ -1,0 +1,1 @@
+package day05ifelseswitchternary;public class IfTekrar {    public static void main(String[] args) {        // girilen sayinin kac basamak oldugunu kontorol eden kodu yaziniz    }}
