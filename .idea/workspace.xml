@@ -4,12 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c30bb336-d918-4313-8b44-19f84e89fe10" name="Changes" comment="">
+    <list default="true" id="c30bb336-d918-4313-8b44-19f84e89fe10" name="Changes" comment="16.08">
+      <change afterPath="$PROJECT_DIR$/src/main/java/day08Loops/ForLoops01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day08Loops/ForLoops02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day08Loops/ForLoops03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day09Loops/DoWhileLoop01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day09Loops/DoWhileLoop02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day09Loops/ForLoops01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day09Loops/ForLoops011.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day09Loops/ForLoops02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day09Loops/WhileLoop01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day09Loops/WhileLoop02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day10loopsarrays/Arrays01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day10loopsarrays/Arrays02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day10loopsarrays/Arrays03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day10loopsarrays/DoWhileLoop01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day11multidimensionalarrays/Arraylists01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day11multidimensionalarrays/Arrays01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day11multidimensionalarrays/Md01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day11multidimensionalarrays/Md02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day11multidimensionalarrays/Md03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day12arraylists/ArrayList02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day12arraylists/ArrayList03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day12arraylists/ArrayList04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day12arraylists/Arraylist01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day12arraylists/MethodCreation01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day07stringmanipulations/StringManipulation01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day07stringmanipulations/StringManipulation01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/day07stringmanipulations/StringManipulation04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day07stringmanipulations/StringManipulation04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day07stringmanipulations/StringManipulations02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day07stringmanipulations/StringManipulations02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day07stringmanipulations/StringManipulations03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day07stringmanipulations/StringManipulations03.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +49,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -42,32 +69,44 @@
     <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2TeXSKVWWlJFbkxG7wwvk46BnPG" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.tabs",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/halilisom/IdeaProjects/Batch189&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.StringManipulation04">
-    <configuration name="StringManipulation01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day07stringmanipulations.StringManipulation01" />
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/day09Loops" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MethodCreation01">
+    <configuration name="ArrayList02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day12arraylists.ArrayList02" />
       <module name="Batch189" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day07stringmanipulations.*" />
+          <option name="PATTERN" value="day12arraylists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringManipulation04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day07stringmanipulations.StringManipulation04" />
+    <configuration name="ArrayList03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day12arraylists.ArrayList03" />
       <module name="Batch189" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day07stringmanipulations.*" />
+          <option name="PATTERN" value="day12arraylists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringManipulations01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day06switchternarystring.StringManipulations01" />
+    <configuration name="ArrayList04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day12arraylists.ArrayList04" />
       <module name="Batch189" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day06switchternarystring.*" />
+          <option name="PATTERN" value="day12arraylists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringManipulations02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day07stringmanipulations.StringManipulations02" />
+    <configuration name="Arraylist01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day12arraylists.Arraylist01" />
       <module name="Batch189" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day07stringmanipulations.*" />
+          <option name="PATTERN" value="day12arraylists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +153,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringManipulations03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day07stringmanipulations.StringManipulations03" />
+    <configuration name="Concatenation" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day03wrapperconcatenationoperators.Concatenation" />
       <module name="Batch189" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day07stringmanipulations.*" />
+          <option name="PATTERN" value="day03wrapperconcatenationoperators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodCreation01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day12arraylists.MethodCreation01" />
+      <module name="Batch189" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day12arraylists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StringManipulation04" />
-        <item itemvalue="Application.StringManipulations03" />
-        <item itemvalue="Application.StringManipulations02" />
-        <item itemvalue="Application.StringManipulation01" />
-        <item itemvalue="Application.StringManipulations01" />
+        <item itemvalue="Application.MethodCreation01" />
+        <item itemvalue="Application.ArrayList04" />
+        <item itemvalue="Application.ArrayList03" />
+        <item itemvalue="Application.ArrayList02" />
+        <item itemvalue="Application.Arraylist01" />
       </list>
     </recent_temporary>
   </component>
@@ -152,8 +204,40 @@
       <workItem from="1692119786632" duration="1076000" />
       <workItem from="1692120990332" duration="9651000" />
       <workItem from="1692132652426" duration="628000" />
-      <workItem from="1692137613437" duration="980000" />
+      <workItem from="1692137613437" duration="1409000" />
+      <workItem from="1692173072897" duration="113000" />
+      <workItem from="1692259349251" duration="10998000" />
+      <workItem from="1692278703954" duration="448000" />
+      <workItem from="1692294270542" duration="11292000" />
+      <workItem from="1692381378695" duration="269000" />
+      <workItem from="1692381707023" duration="179000" />
+      <workItem from="1692381900892" duration="21000" />
+      <workItem from="1692382307235" duration="70000" />
+      <workItem from="1692390284631" duration="388000" />
+      <workItem from="1692390677635" duration="221000" />
+      <workItem from="1692391046480" duration="977000" />
+      <workItem from="1692392044361" duration="1868000" />
+      <workItem from="1692398261603" duration="14000" />
+      <workItem from="1692398401651" duration="38000" />
+      <workItem from="1692398540799" duration="14000" />
+      <workItem from="1692398601516" duration="281000" />
+      <workItem from="1692399281331" duration="428000" />
+      <workItem from="1692399802920" duration="55000" />
+      <workItem from="1692458978551" duration="859000" />
+      <workItem from="1692559378053" duration="10094000" />
+      <workItem from="1692612087930" duration="31047000" />
+      <workItem from="1692830519735" duration="582000" />
+      <workItem from="1692864456974" duration="18292000" />
     </task>
+    <task id="LOCAL-00001" summary="16.08">
+      <option name="closed" value="true" />
+      <created>1692138724649</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1692138724649</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,6 +253,31 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="16.08" />
+    <option name="LAST_COMMIT_MESSAGE" value="16.08" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/day12arraylists/ArrayList03.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/day12arraylists/ArrayList03.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/day12arraylists/MethodCreation01.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
